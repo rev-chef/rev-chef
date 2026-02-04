@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I'm Noah 👋
+I'm a Software Development student at the Southern Alberta Institute of Technology (SAIT), currently in my 1st year. **Currently looking for summer student Co-ops or Internships.**
+<hr>
 <!--
 **rev-chef/rev-chef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
