@@ -1,7 +1,12 @@
 <h1>## Hi there, I'm Noah 👋</h1>
 I'm a Software Development student at the Southern Alberta Institute of Technology (SAIT), currently in my 1st year. **Currently looking for summer student Co-ops or Internships.**
-<hr>
-
+<hr color="Purple">
+<h2>Skils✨</h2>
+**Front-end Development:** HTML, CSS, JS
+**Back-end Development:** Python, Java, Assembly(Intel, AT&T), SQL
+**Cyber Security:** Reverse-engineering, Malware Analysis, Web Exploitation
+**Tools:** VSCode, Eclipse IDE, Ghidra, VMware, Linux
+<hr color="Purple">
 <!--
 **rev-chef/rev-chef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
