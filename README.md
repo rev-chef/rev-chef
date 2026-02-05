@@ -4,6 +4,7 @@ I'm a Software Development student at the Southern Alberta Institute of Technolo
 **Currently looking for summer student Co-ops or Internships.**
 <hr>
 <h2>Skills✨</h2>
+
 Front-end Development: HTML, CSS, JS
 
 Back-end Development: Python, Java, Assembly, SQL
