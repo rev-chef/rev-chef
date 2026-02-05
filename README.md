@@ -12,7 +12,7 @@ Tools: VSCode, Eclipse IDE, Ghidra, VMware, Linux
 <h2>Pinned Project📌</h2>
 **Our team's entry in the Mega Hacks 2026 Hackathon**
 -Created by our team of 4 SAIT students in 24 hours
-
+<hr>
 <h2>Current Interests</h2>
 - Reading through and completing the labs in the book "Practical Malware Analysis".
 - Reverse-engineering the game "Scribblenauts" on the Nintendo DS.
