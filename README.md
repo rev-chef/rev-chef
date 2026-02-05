@@ -3,21 +3,24 @@ I'm a Software Development student at the Southern Alberta Institute of Technolo
 
 **Currently looking for summer student Co-ops or Internships.**
 <hr>
-<h2>✨Skills</h2>
+<h2>Skills✨</h2>
 Front-end Development: HTML, CSS, JS
+
 Back-end Development: Python, Java, Assembly, SQL
+
 Cyber Security: Reverse-engineering, Malware Analysis, Web Exploitation
+
 Tools: VSCode, Eclipse IDE, Ghidra, VMware, Linux
 <hr>
 <h2>Pinned Project📌</h2>
 **Our team's entry in the Mega Hacks 2026 Hackathon**
 -Created by our team of 4 SAIT students in 24 hours
 <hr>
-<h2>Current Interests</h2>
+<h2>Current Interests🔎</h2>
 - Reading through and completing the labs in the book "Practical Malware Analysis".
 - Reverse-engineering the game "Scribblenauts" on the Nintendo DS.
 - Creating encryption cracking programs with Python.
 - Learning web exploitation techniques
 <hr>
-<h2>Write-Ups:</h2>
+<h2>Write-Ups📝</h2>
 -Stay Tuned!
