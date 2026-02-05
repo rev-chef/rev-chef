@@ -118,7 +118,7 @@
               <ul class="inner-list tools">
                 <li>VScode</li>
                 <li>Eclipse IDE</li>
-                <li>VMware & VirtualBox</li>
+                <li>VMware &amp; VirtualBox</li>
                 <li>Ghidra & IDA Pro</li>
                 <li>Linux</li>
               </ul>
@@ -129,8 +129,8 @@
             <br><hr>
             <h2 class="h2">Current Interests🔎</h2>
             <ul>
-              <li>Working through the book "Practical Malware Analysis" by Michael Sikorski and Andrew Honig</li>
-              <li>Reverse engineering the game "Scribblenauts" for the Nintendo DS</li>
+              <li>Working through the book &quot;Practical Malware Analysis&quot; by Michael Sikorski and Andrew Honig</li>
+              <li>Reverse engineering the game &quot;Scribblenauts&quot; for the Nintendo DS</li>
               <li>Creating Python programs to crack CTF encryption challenges</li>
               <li>Learning web exploitation techniques</li>
             </ul>
