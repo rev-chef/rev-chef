@@ -129,7 +129,7 @@
         <hr />
         <h2 class="h2">Pinned Project📌</h2>
         <p>
-          <h3>PEel🍌</h3>
+          <h3><a href="https://github.com/rev-chef/PEel">PEel</a></h3>
           My solo-developed passion project: a PE parser that helped me learn a
           lot more about programming and app development, as well as Windows
           reverse-engineering and PE file internals!
@@ -141,11 +141,9 @@
             Improving my app (PEel), and learning as much as I can about
             reverse-engineering.
           </li>
-          <li>
-            Hardware programming! (raspberry pi, creating custom hardware)
-          </li>
+          <li>Low-Level programming in C and Assembly</li>
           <li>Malware analysis</li>
-          <li>Participating in as many CTFs as possible</li>
+          <li>Hardware Programming (Raspberry Pi)</li>
         </ul>
         <hr />
         <h2 class="h2">Write-ups📝</h2>
